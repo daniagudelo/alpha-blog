@@ -1,0 +1,137 @@
+[33mcommit c868d8a35a53953fa724c8771711f4752a0e6020[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Tue Feb 16 21:20:06 2016 +0000
+
+    Added edit update functionality and partial
+
+[33mcommit 94cc533d5844c35f5e15dd4de8bd9403bc80689e[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Thu Jan 7 03:08:05 2016 +0000
+
+    Added functional signup button
+
+[33mcommit 45a11f6c49d567c8007fcaecb568ff4e8e99b06a[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Thu Jan 7 02:58:15 2016 +0000
+
+    Added signup from UI
+
+[33mcommit d1160a289b1c0422baa2942da8b1b9c1829a5e11[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Thu Jan 7 01:12:31 2016 +0000
+
+    Added password digest to users table
+
+[33mcommit 86aad9f51498a2aaf66d4bf523d093dce5bac854[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Tue Jan 5 04:46:26 2016 +0000
+
+    Added article meta details and its styling
+
+[33mcommit ae3974cdfd63a0d8968bb3d93541707bbd41aeec[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Mon Jan 4 03:59:43 2016 +0000
+
+    add association between user and articles and add debugger view
+
+[33mcommit ea16f908992ba15d6a978b06602006540aed0432[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Mon Jan 4 02:24:01 2016 +0000
+
+    Added user validations
+
+[33mcommit 98724bd7f3f71c5ee6f5a202e5836ebc36ba645c[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Sun Jan 3 17:47:09 2016 +0000
+
+    Create users table and models
+
+[33mcommit 7bfe64059340da2818d229675c62c8fa24b4636e[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Sat Dec 26 05:58:59 2015 +0000
+
+    Styled the view all articles page
+
+[33mcommit ab03388276ed618f359ae08ad029661645374314[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Thu Dec 24 22:17:15 2015 +0000
+
+    Show page styling
+
+[33mcommit 85547fea5a9fa25d7e4643a9dfcfcb88cc69607a[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Thu Dec 24 22:05:46 2015 +0000
+
+    styled show page
+
+[33mcommit db75df0954e25d99e2f8088ad73afd51263f04a9[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Thu Dec 24 21:41:40 2015 +0000
+
+    Styles messages partials
+
+[33mcommit c5b75de852c6f0e3d925f5cb7674a89d1a174f52[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Wed Dec 23 05:01:13 2015 +0000
+
+    style form partials
+
+[33mcommit 7066e0d743edec16e4b4be03877c8d9f81328b36[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Wed Dec 23 03:12:22 2015 +0000
+
+    worked on home page
+
+[33mcommit 4ccec430cd5114c50ab26a7f4c805ebadbbe835f[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Tue Dec 22 15:22:09 2015 +0000
+
+    Install Bootstrap
+
+[33mcommit 6c0c562ac66ecc2ba31f5a80f1573b7ed5a95b00[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Sat Dec 19 04:26:57 2015 +0000
+
+    extract redundancy and prepare for production
+
+[33mcommit bcf23a8258d95849730b9a071fbc381761cb4b26[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Sat Dec 19 04:19:26 2015 +0000
+
+    Add partials and destroy action
+
+[33mcommit 32a8c184632642f6779533838cb5eb464b94266d[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Sat Dec 19 03:40:52 2015 +0000
+
+    add edit, update, show and index listing
+
+[33mcommit 0fe76a9c1fe15ab76fdfe71b1e5c900eca29fcc6[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Thu Dec 17 21:50:13 2015 +0000
+
+    Fix create, add flash and error message, create show
+
+[33mcommit cd8ea0d18a15edb08cade5daaee492a03c256d98[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Wed Dec 16 04:29:25 2015 +0000
+
+    create new template, action and route
+
+[33mcommit 3d0e9bbe5d15a89e0fd452ccedd178a0a3588ba5[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Tue Dec 15 20:45:04 2015 +0000
+
+    create articles table model and add validation
+
+[33mcommit 826d40f73d373b94df4ce1e697a911fc68645ea0[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Tue Dec 15 05:05:48 2015 +0000
+
+    modify readme for depo
+
+[33mcommit d29e88330629c92fc7bace29ee0958215ac2a198[m
+Author: daniagudelo <daniagudelo@gmail.com>
+Date:   Tue Dec 15 04:52:11 2015 +0000
+
+    Create rails app and setup home and about pages
